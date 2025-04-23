@@ -28,16 +28,7 @@ extensible-wordpress/
 ├── ajax/                  # AJAX components
 ├── scripts-styles/       # Script and style components
 ├── forms/               # Form components
-├── multisite/         # Multisite components
-└── third-party-plugins/  # Third-party plugin integrations
-    ├── learndash/      # LearnDash integrations
-    │   ├── extensions/    # Custom extensions
-    │   ├── integrations/  # Plugin integrations
-    │   └── hooks/        # Custom hooks
-    └── woocommerce/    # WooCommerce integrations
-        ├── extensions/    # Custom extensions
-        ├── integrations/  # Plugin integrations
-        └── hooks/        # Custom hooks
+└── multisite/         # Multisite components
 ```
 
 ## 💡 Why This Repo?
